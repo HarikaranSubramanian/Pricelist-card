@@ -6,16 +6,9 @@ This is a simple React application that displays a price list using Bootstrap fo
 
 - [Price List App](#price-list-app)
   - [Table of Contents](#table-of-contents)
-- [Price List App](#price-list-app-1)
   - [Usage](#usage)
   - [Dependencies](#dependencies)
-
-
-# Price List App
-
-- This is a simple React application that displays a price list using Bootstrap for styling.
-
-
+  - [Live Demo](#live-demo)
 
 
 ## Usage
@@ -27,3 +20,6 @@ The project uses the following dependencies:
 - React: https://reactjs.org/
 - Bootstrap: https://getbootstrap.com/
 - Make sure to have Node.js and npm installed before running the application.
+
+## Live Demo
+You can view a live demo of this application on Netlify: [Netlify Price Card App](https://netlify-pricecard.netlify.app/)
